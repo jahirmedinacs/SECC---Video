@@ -1,4 +1,4 @@
-# ** <center> Video Promocional </center> **
+# <center> **Video Promocional** </center>
 
 ![alt text](logo_secc.png "SECC")
 
